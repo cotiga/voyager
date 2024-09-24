@@ -62,4 +62,8 @@
       "@php vendor/bin/testbench package:discover --ansi"
     ]
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> d4f26613 (Update compoer)
